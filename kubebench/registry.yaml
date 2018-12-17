@@ -22,3 +22,6 @@ libraries:
   kubebench-dashboard:
     version: master
     path: kubebench-dashboard
+  kubebench-operator:
+    version: master
+    path: kubebench-operator
